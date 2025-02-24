@@ -1,0 +1,14 @@
+
+Links for the datasets:
+
+1. Car Specifications:
+
+https://www.kaggle.com/datasets/jahaidulislam/car-specification-dataset-1945-2020
+
+2. Car Sales:
+
+https://www.kaggle.com/datasets/missionjee/car-sales-report
+
+3. Car Ratings:
+
+https://www.kaggle.com/datasets/shreemunpranav/edmunds-car-review
