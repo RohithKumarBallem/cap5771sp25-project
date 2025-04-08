@@ -1,5 +1,5 @@
 
-Links for the datasets:
+Links for the datasets milestone 1
 
 1. Car Specifications:
 
@@ -12,3 +12,22 @@ https://www.kaggle.com/datasets/missionjee/car-sales-report
 3. Car Ratings:
 
 https://www.kaggle.com/datasets/shreemunpranav/edmunds-car-review
+
+
+Links for the datasets milestone 2
+
+1. Car Specifications:
+
+https://drive.google.com/file/d/1CzsaUirdxwglZKYCEYzv8BQYXSlV1CRY/view?usp=drive_link
+
+2. Car Sales:
+
+https://drive.google.com/file/d/17Lk63o6iDq7W4C0_4IJ8eUrkj6MCBaOz/view?usp=drive_link
+
+3. Car Ratings:
+
+https://drive.google.com/file/d/1fzqSVBZ2gdgyysd9XrHookkLUtp1zWOr/view?usp=drive_link
+
+Fully merged dataset :
+
+https://drive.google.com/file/d/1C_kc6e1miPtpxMjchLQy2kZ-ARVNw0j7/view?usp=drive_link
