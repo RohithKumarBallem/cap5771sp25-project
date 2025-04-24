@@ -1,6 +1,6 @@
 # cap5771sp25-project
 
-## Car Recommendation engine
+## Car Recommendation Engine
 
 A hybrid machine learning-based Car Recommendation System that combines supervised and unsupervised learning models to provide personalized car suggestions. The app is built with Streamlit for an interactive user interface.
 
@@ -10,6 +10,12 @@ This project uses both classification and clustering techniques to recommend car
 Supervised Learning models: K-Nearest Neighbors (KNN), Logistic regression and Random Forest classifier.
 
 Unsupervised Learning models: K-Means, Gaussian Mixture Models (GMM), Agglomerative Clustering
+
+# Streamlit cloud deployed App
+
+You can now run the "Car Recommendation Engine" tool  directly using the link below.
+
+[App Link](https://mainpy-a97uc2wrdqnjq4jexbb3wf.streamlit.app/)
 
 ## Datasets for Milestone 1
 
@@ -32,13 +38,13 @@ The datasets are taken from kaggle and below are the links to the datasets.
 
 ## Datasets for Milestone 2
 
-The datasets are taken from milestone 1 after data preprocessing.
+- The datasets are taken from milestone 1 after data preprocessing.
 
 ### Links for the datasets:
 
 1. Car Specifications:
 
-[Car Specifications](https://drive.google.com/file/d/1CzsaUirdxwglZKYCEYzv8BQYXSlV1CRY/view?usp=drive_link)
+- [Car Specifications](https://drive.google.com/file/d/1CzsaUirdxwglZKYCEYzv8BQYXSlV1CRY/view?usp=drive_link)
 
 2. Car Sales:
 
@@ -57,7 +63,7 @@ Fully merged dataset :
 
 [Clustering and data Dataset](https://drive.google.com/file/d/1NIyO62mAJW3qNT88aFuNg3DuVCmhxOBT/view?usp=drive_link)
 
-# Presentations and Videos for the project
+## Presentations and Videos for the project
 
 - [PPT car recommendation engine](https://docs.google.com/presentation/d/1WoVkxioTahy13lPxM4jbsvZEe_szbqxf/edit?usp=drive_link&ouid=107598483132952169323&rtpof=true&sd=true)
 - [car recommendation engine video demo Milestone 1 and Milestone 2](https://drive.google.com/file/d/1PKkiucpDFwzrLFrmKwaPAPjO8uvYmeEt/view?usp=drive_link)
@@ -90,12 +96,11 @@ The notebook is also present under the "Scripts" folder
 
 3.⁠ ⁠Run the app:
     ⁠ bash
-    streamlit run app.py
+    streamlit run main.py
 
 
 ## Report
 
-- The report Milestone1.pdf is present under Report folder that contains the report of the IDS project "Car Recommendation Engine"
-- The report Milestone2.pdf is present under Report folder that contains the report of the IDS project "Car Recommendation Engine"
-- The report Milestone3.pdf is present under Report folder that contains the report of the IDS project "Car Recommendation Engine"
-
+- [Milestone1](https://github.com/RohithKumarBallem/cap5771sp25-project/blob/main/Report/Milestone1.pdf)
+- [Milestone2](https://github.com/RohithKumarBallem/cap5771sp25-project/blob/main/Report/Milestone2.pdf)
+- [Milestone3](https://github.com/RohithKumarBallem/cap5771sp25-project/blob/main/Report/Milestone3.pdf)
