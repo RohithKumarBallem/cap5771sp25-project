@@ -38,13 +38,13 @@ The datasets are taken from kaggle and below are the links to the datasets.
 
 ## Datasets for Milestone 2
 
-- The datasets are taken from milestone 1 after data preprocessing.
+The datasets are taken from milestone 1 after data preprocessing.
 
 ### Links for the datasets:
 
 1. Car Specifications:
 
-- [Car Specifications](https://drive.google.com/file/d/1CzsaUirdxwglZKYCEYzv8BQYXSlV1CRY/view?usp=drive_link)
+[Car Specifications](https://drive.google.com/file/d/1CzsaUirdxwglZKYCEYzv8BQYXSlV1CRY/view?usp=drive_link)
 
 2. Car Sales:
 
@@ -79,13 +79,12 @@ The Project is done on the kaggle and here's my notebook link. To run the code, 
 
 - For milestone 2 and 3 developed in local jupyter notebook and uploaded as .ipynb files only.
 
-The notebook is also present under the "Scripts" folder
 
 ## How to Run the tool ("Car Recommendation Engine") Locally
 
 1.⁠ ⁠Clone the repository:
     ⁠ bash
-    git clone https://github.com/RohithKumarBallem/cap5771sp25-project.git
+     git clone https://github.com/RohithKumarBallem/cap5771sp25-project.git
     cd Scripts
      ⁠
 
