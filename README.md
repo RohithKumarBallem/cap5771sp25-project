@@ -1,6 +1,15 @@
 # cap5771sp25-project
 
-The project is to develop "Car Recommendation Engine" using datasets from kaggle.
+## Car Recommendation engine
+
+A hybrid machine learning-based Car Recommendation System that combines supervised and unsupervised learning models to provide personalized car suggestions. The app is built with Streamlit for an interactive user interface.
+
+## Project Overview
+This project uses both classification and clustering techniques to recommend cars based on user preferences and data patterns. Key models used include:
+
+Supervised Learning models: K-Nearest Neighbors (KNN), Logistic regression and Random Forest classifier.
+
+Unsupervised Learning models: K-Means, Gaussian Mixture Models (GMM), Agglomerative Clustering
 
 ## Datasets for Milestone 1
 
@@ -44,26 +53,49 @@ Fully merged dataset :
 [Fully Merged Dataset](https://drive.google.com/file/d/1C_kc6e1miPtpxMjchLQy2kZ-ARVNw0j7/view?usp=drive_link)
 
 
-# Datasets for Milestone 3
+## Datasets for Milestone 3
 
+[Clustering and data Dataset](https://drive.google.com/file/d/1NIyO62mAJW3qNT88aFuNg3DuVCmhxOBT/view?usp=drive_link)
 
 # Presentations and Videos for the project
 
-[PPT car recommendation engine](https://docs.google.com/presentation/d/1WoVkxioTahy13lPxM4jbsvZEe_szbqxf/edit?usp=drive_link&ouid=107598483132952169323&rtpof=true&sd=true)
-[car recommendation engine video demo Milestone 1 and Milestone2](https://drive.google.com/file/d/1PKkiucpDFwzrLFrmKwaPAPjO8uvYmeEt/view?usp=drive_link)
-[car recommendation engine video demo Milestone 3 tool demo](https://drive.google.com/file/d/1n7-TndlZzZ7srD-OKqNHZb6FEEzwK38G/view?usp=drive_link)
+- [PPT car recommendation engine](https://docs.google.com/presentation/d/1WoVkxioTahy13lPxM4jbsvZEe_szbqxf/edit?usp=drive_link&ouid=107598483132952169323&rtpof=true&sd=true)
+- [car recommendation engine video demo Milestone 1 and Milestone 2](https://drive.google.com/file/d/1PKkiucpDFwzrLFrmKwaPAPjO8uvYmeEt/view?usp=drive_link)
+- [car recommendation engine video demo Milestone 3 tool demo](https://drive.google.com/file/d/1n7-TndlZzZ7srD-OKqNHZb6FEEzwK38G/view?usp=drive_link)
 
 ## Jupyter notebook
 
 The Project is done on the kaggle and here's my notebook link. To run the code, run the notebook on kaggle along with the datasets mentioned above.
 
-[Milestone1 IDS Notebook](https://www.kaggle.com/code/rohithballem/ids-milestone1)
+- [Milestone1 IDS Notebook](https://www.kaggle.com/code/rohithballem/ids-milestone1)
+
+- The notebook is also present under the "Scripts" folder
+
+- For milestone 2 and 3 developed in local jupyter notebook and uploaded as .ipynb files only.
 
 The notebook is also present under the "Scripts" folder
 
+## How to Run the tool ("Car Recommendation Engine") Locally
+
+1.⁠ ⁠Clone the repository:
+    ⁠ bash
+    git clone https://github.com/RohithKumarBallem/cap5771sp25-project.git
+    cd Scripts
+     ⁠
+
+2.⁠ ⁠Install the dependencies:
+    ⁠ bash
+    pip install -r requirements.txt
+     ⁠
+
+3.⁠ ⁠Run the app:
+    ⁠ bash
+    streamlit run app.py
+
+
 ## Report
 
-The report Milestone1.pdf is present under Report folder that contains the report of the IDS project "Car Recommendation Engine"
-The report Milestone2.pdf is present under Report folder that contains the report of the IDS project "Car Recommendation Engine"
-The report Milestone3.pdf is present under Report folder that contains the report of the IDS project "Car Recommendation Engine"
+- The report Milestone1.pdf is present under Report folder that contains the report of the IDS project "Car Recommendation Engine"
+- The report Milestone2.pdf is present under Report folder that contains the report of the IDS project "Car Recommendation Engine"
+- The report Milestone3.pdf is present under Report folder that contains the report of the IDS project "Car Recommendation Engine"
 
